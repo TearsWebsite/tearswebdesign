@@ -1,1 +1,9 @@
-.
+body { background-colour: #FFF }
+
+nav ul li{
+  display:none;
+}
+
+nav ul li: hover>ul{
+  display:block;
+}
